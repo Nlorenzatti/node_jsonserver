@@ -1,0 +1,49 @@
+{
+    "profesores": [
+        {
+            "nombre": "Nicolas", 
+            "apellido": "Lorenzatti",
+            "materias":[
+                {
+                    "nombre": "Matematicas"
+                },
+                {
+                    "nombre": "Fisica"
+                },
+                {
+                    "nombre": "Quimica"
+                }
+            ]
+        }
+    ],
+    "alumnos":[
+        {
+            "nombre": "Jose",
+            "apellido":"Rodriguez",
+            "promedio": 8.2
+        },
+        {
+            "nombre": "Julian",
+            "apellido":"Gonzalez",
+            "promedio": 9
+        }
+    ],
+    "cursos":[
+    {
+        "nombre": "Matematicas",
+        "duracion": 8,
+        "dificultad":"intermedia"
+    },
+    {
+        "nombre": "Fisica",
+        "duracion": 5,
+        "dificultad":"facil"
+    },
+    {
+        "nombre": "Quimica",
+        "duracion": 4,
+        "dificultad":"dificil"
+    }
+    ]
+
+  }
